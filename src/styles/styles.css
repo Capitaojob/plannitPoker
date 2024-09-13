@@ -1,0 +1,42 @@
+.LightTheme {
+  --color-text: #000;
+  --color-primary: #75a1de;
+  --color-secondary: #d7d7d7;
+  --color-background: white;
+  --color-background-secondary: #e7edf3;
+  --color-warning: orangered;
+  --color-border: grey;
+}
+
+.DarkTheme {
+  --color-text: #fff;
+  --color-primary: #ffc400;
+  --color-secondary: #d6bd98;
+  --color-background: #302b2e;
+  --color-background-secondary: #2a2427;
+  --color-warning: #ff3300;
+  --color-border: #677d6a;
+}
+
+/* body {
+  background-color: var(--color-background);
+}
+
+p,
+button,
+a,
+div,
+legend,
+span,
+th,
+td {
+  color: var(--color-text) !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: var(--color-text) !important;
+}
+
+.MuiTableCell-stickyHeader {
+  background-color: var(--color-background-secondary);
+} */

@@ -1,0 +1,69 @@
+{
+  "toolbar": {
+    "menu": {
+      "about": "What is OuroPoker?",
+      "guide": "Guide",
+      "examples": "Examples",
+      "newSession": "New session",
+      "joinSession": "Join session"
+    }
+  },
+  "HomePage": {
+    "heroSection": {
+      "title": "Plannit Poker",
+      "description": "OuroWeb's Planning Poker Web App to estimate user stories for the Agile/Scrum team. Create a session and invite the team members to estimate user stories efficiently."
+    },
+    "RecentSession": {
+      "title": "Recent Sessions",
+      "description": "Here is your recent Planning/Refinement sessions, click on the session name to join the session again.",
+      "name": "Name",
+      "createdBy": "Created By"
+    }
+  },
+  "Poker": {
+    "formNewSession": {
+      "newSessionHeader": "Create new session",
+      "sessionNameLabel": "Session name",
+      "yourNameLabel": "Your name",
+      "fib": "Fibonacci",
+      "shortFib": "Short Fibonacci",
+      "tshirt": "T-Shirt",
+      "tshirtNumbers": "T-Shirt & Numbers",
+      "deck": "Deck",
+      "custom": "Custom",
+      "allowMemberManagement": "Allow members to manage session",
+      "create": "Create",
+      "customValuesError": "Please enter values for at least two custom option."
+    },
+    "formJoinGame": {
+      "title": "Join a Session",
+      "sessionId": "Session ID",
+      "yourName": "Your Name",
+      "join": "Join"
+    },
+    "gameController": {
+      "reveal": "Reveal",
+      "restart": "Restart",
+      "delete": "Delete",
+      "exit": "Exit",
+      "invite": "Invite",
+      "inviteCopied": "Invite Link copied to clipboard!"
+    },
+    "cardPicker": {
+      "sessionReady": "Click on the card to vote",
+      "sessionNotReady": "Session not ready for Voting! Wait for moderator to start"
+    }
+  },
+  "GameController": {
+    "average": "Average"
+  },
+  "GameResults": {
+    "title": "Results",
+    "gameID": "Game ID",
+    "lastGameID": "Last Game ID",
+    "average": "Average Score"
+  },
+  "Footer": {
+    "submitIssue": "Submit an Issue"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "toolbar": {
+    "menu": {
+      "about": "Sobre o OuroPoker",
+      "guide": "Guia",
+      "examples": "Exemplos",
+      "newSession": "Nova sessão",
+      "joinSession": "Entrar na sessão"
+    }
+  },
+  "HomePage": {
+    "heroSection": {
+      "title": "Plannit Poker",
+      "description": "Sistema de Planning Poker da OuroWeb para estimativa de histórias dos usuários para seu time ágil/scrum. Crie uma sessão e convide os membros do time para estimar as histórias."
+    },
+    "RecentSession": {
+      "title": "Sessões Recentes",
+      "description": "Aqui ficam suas sessões recentes do OuroPoker, clique no nome da sessão para se juntar a ela novamente.",
+      "name": "Nome",
+      "createdBy": "Criado Por"
+    }
+  },
+  "Poker": {
+    "formNewSession": {
+      "newSessionHeader": "Criar nova sessão",
+      "sessionNameLabel": "Nome da sessão",
+      "yourNameLabel": "Seu nome",
+      "fib": "Fibonacci",
+      "shortFib": "Fibonacci Reduzido",
+      "tshirt": "Camiseta",
+      "tshirtNumbers": "Camiseta & Números",
+      "deck": "Baralho",
+      "custom": "Customizado",
+      "allowMemberManagement": "Permitir membros administrarem a sessão",
+      "create": "Criar",
+      "customValuesError": "Favor inserir valores para, no mínimo, 2 opções."
+    },
+    "formJoinGame": {
+      "title": "Entrar em uma Sessão",
+      "sessionId": "ID da Sessão",
+      "yourName": "Seu Nome",
+      "join": "Entrar"
+    },
+    "gameController": {
+      "reveal": "Revelar",
+      "restart": "Reiniciar",
+      "delete": "Deletar",
+      "exit": "Sair",
+      "invite": "Convidar",
+      "inviteCopied": "Link de envio copiado para a área de transferência!"
+    },
+    "cardPicker": {
+      "sessionReady": "Clique em uma carta para votar",
+      "sessionNotReady": "A sessão ainda não está pronta para Votação! Espere o moderador começar"
+    }
+  },
+  "GameController": {
+    "average": "Média"
+  },
+  "GameResults": {
+    "title": "Resultados",
+    "gameID": "ID do Jogo",
+    "lastGameID": "ID do Último Jogo",
+    "average": "Média de Pontos"
+  },
+  "Footer": {
+    "submitIssue": "Relatar um Problema"
+  }
+}

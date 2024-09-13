@@ -1,0 +1,19 @@
+.FooterSection {
+  background-color: var(--color-background-secondary);
+  padding: 20px;
+}
+
+.FooterContainer {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+
+.FooterItemContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-right: 10px;
+}

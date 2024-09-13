@@ -1,0 +1,26 @@
+.drawer {
+  width: 300;
+  flex-shrink: 0;
+}
+
+.drawerPaper {
+  width: 300;
+}
+
+.toggleButton {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.drawerHeader {
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px;
+}
+
+.content {
+  text-align: 'center';
+  padding: 16px;
+}
